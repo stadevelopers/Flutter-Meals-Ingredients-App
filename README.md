@@ -1,6 +1,8 @@
 # meals
 
-A new Flutter project.
+Meals App
+This app shows meals and their ingridents, to get a look and feel of the app 
+PLEASE OPEN THE '1 FUNCTIONALITY FOLDER'
 
 ## Getting Started
 
